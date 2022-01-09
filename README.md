@@ -1,3 +1,6 @@
+# Usage
+To make (and run) the app locally, React, `react-router`, and `create-react-app` were used
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
