@@ -1,5 +1,5 @@
 # Usage
-To make (and run) the app locally, React, `react-router`, and `create-react-app` were used
+To make (and run) the app locally, React, `react-router`, and `create-react-app` were used.
 
 # Getting Started with Create React App
 
