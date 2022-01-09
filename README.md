@@ -1,3 +1,6 @@
+# Purpose
+This is a basic app that provides information on some of the aspects of the Disruption Lab.
+
 # Usage
 To make (and run) the app locally, React, `react-router`, and `create-react-app` were used.
 
